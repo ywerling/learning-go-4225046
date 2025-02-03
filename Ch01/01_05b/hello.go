@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello this is the first GO application")
+	fmt.Println("Hello this is my first GO application!")
 }
